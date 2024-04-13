@@ -25,7 +25,7 @@ O site é construído principalmente usando HTML, CSS e JavaScript. Não há nec
 
   **Visualização das Imagens**: Após o acesso, você verá uma imagem correspondente ao período do dia atual. Continue a visitar o site em momentos diferentes para ver imagens diferentes conforme o dia avança.
 
-## Como Utilizar 💡
+## Visualização Local ✏️
 
 Para visualizar o site localmente, basta clonar este repositório e abrir o arquivo `index.html` em seu navegador:
 
